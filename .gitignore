@@ -1,0 +1,13 @@
+*.pyc
+__pycache__/
+.DS_Store
+test_exp/*
+wandb/*
+outputs/*
+test_exp_think1/
+test_exp_think1_3step/
+test_exp_think3/
+output_reproduce
+think3_ckpt/
+*.pdf
+*.png
