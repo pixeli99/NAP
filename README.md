@@ -20,6 +20,12 @@ The goal is to reduce AR-like decoding bias while preserving (or improving) reas
 - Long-CoT SFT further increases ARness.
 - Existing fast DLM decoding methods often improve speed by following an AR-like critical path.
 
+## TODOs
+We will try our best to achieve
+- \[✅\] Training code of NAP
+- \[🚀\] Datasets and Model weights
+- \[🚀\] Inference and evaluation code
+
 ## Method
 
 NAP uses a structured output canvas:
@@ -32,7 +38,7 @@ NAP uses a structured output canvas:
 - `<summary>` aggregates evidence from all paths and outputs the final answer.
 
 Decoding policy:
-
+<img width="1312" height="452" alt="Image" src="https://github.com/user-attachments/assets/451c2b13-e8ca-439e-ab95-087bfd7e8ffc" />
 - **Macro-parallel**: distribute unmasking budget across all reasoning blocks each step.
 - **Micro-confidence**: within each block, commit tokens by confidence (not strict left-to-right order).
 
