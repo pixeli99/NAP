@@ -18,7 +18,7 @@ Pengxiang Li*<sup>1</sup> &nbsp;&nbsp; Dilxat Muhtar*<sup>2,3,4</sup> &nbsp;&nbs
 
 <div align="center">
   
-![Demo](demo.gif)
+![Demo](demo_v1.gif)
 
 </div>
 
