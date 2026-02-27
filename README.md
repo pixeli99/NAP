@@ -1,6 +1,18 @@
-# NAP: Non-Autoregressive Parallel DLMs
+## Why Diffusion Language Models Struggle with Truly Parallel (Non-Autoregressive)  Decoding?
 
-> Why Diffusion Language Models Struggle with Truly Parallel (Non-Autoregressive) Decoding?
+<div align="center">
+Pengxiang Li*<sup>1</sup> &nbsp;&nbsp; Dilxat Muhtar*<sup>2,3,4</sup> &nbsp;&nbsp; Tianlong Chen<sup>6</sup>&nbsp;&nbsp; Lu Yin*<sup>5</sup>&nbsp;&nbsp; Shiwei Liu*<sup>2,3,4</sup>
+
+
+<sup>1</sup> The Hong Kong Polytechnic University, <sup>2</sup> ELLIS Institute Tübingen, <sup>3</sup> Max Planck Institute for Intelligent Systems, <sup>4</sup> Tübingen AI Center, <br>
+<sup>5</sup> University of Surrey, <sup>6</sup> The University of North Carolina at Chapel Hill
+
+</div>
+
+<div align="center">
+[<a href="https://arxiv.org/pdf/2602.23225">Paper</a>] | [<a href="">Blog</a>]
+</div>
+<br>
 
 ## Overview
 
