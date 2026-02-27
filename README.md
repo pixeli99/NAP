@@ -13,7 +13,14 @@ Pengxiang Li*<sup>1</sup> &nbsp;&nbsp; Dilxat Muhtar*<sup>2,3,4</sup> &nbsp;&nbs
 <div align="center">
 [<a href="https://arxiv.org/pdf/2602.23225">Paper</a>] | [<a href="">Blog</a>]
 </div>
+
 <br>
+
+<div align="center">
+  
+![Demo](demo.gif)
+
+</div>
 
 ## Overview
 
