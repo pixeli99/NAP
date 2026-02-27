@@ -1,6 +1,7 @@
+<div align="center">
+  
 ## Why Diffusion Language Models Struggle with Truly Parallel Decoding?
 
-<div align="center">
 Pengxiang Li*<sup>1</sup> &nbsp;&nbsp; Dilxat Muhtar*<sup>2,3,4</sup> &nbsp;&nbsp; Tianlong Chen<sup>6</sup>&nbsp;&nbsp; Lu Yin*<sup>5</sup>&nbsp;&nbsp; Shiwei Liu*<sup>2,3,4</sup>
 
 
